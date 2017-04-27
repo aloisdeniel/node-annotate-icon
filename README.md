@@ -30,7 +30,7 @@ Before
 ![](test/icon-small.jpg)
 
 After
-![](test/icon-small.output.jpg)
+![](test/icon-small.output.png)
 
 ## Copyright and license
 
